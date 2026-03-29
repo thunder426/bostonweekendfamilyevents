@@ -12,7 +12,7 @@
     "price": "$15 adults / $10 kids (2+) / Free under 2 (Members: $12/$8)",
     "ageRange": "All ages",
     "website": "https://www.massaudubon.org/places-to-explore/wildlife-sanctuaries/drumlin-farm/news/woolapalooza-2026",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
+    "image": "https://www.massaudubon.org/var/site/storage/images/0/0/7/3/1603700-2-eng-US/f5466c5ce1de-DF_KForesto-0294_2.jpg",
     "tags": ["animals", "farm", "spring", "fiber-arts", "hands-on"],
     "recurring": false
   },
@@ -29,7 +29,7 @@
     "price": "Free",
     "ageRange": "Ages 0–8",
     "website": "https://www.discoveryacton.org",
-    "image": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=600&h=400&fit=crop",
+    "image": "https://www.discoveryacton.org/sites/default/files/styles/slide_small/public/images/IMLS%20National%20Medal-staff%20pic-cropped.jpg?h=2a8235bd&itok=Aww3fWJi",
     "tags": ["free", "indoor", "STEAM", "hands-on", "toddler-friendly"],
     "recurring": true
   },
@@ -46,7 +46,7 @@
     "price": "Ticketed event – see website for pricing",
     "ageRange": "Ages 1–9",
     "website": "https://www.smolakfarms.com",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
+    "image": "https://www.smolakfarms.com/wp-content/uploads/2026/03/Web-Site_Posting_Graphics23-1200x755.png",
     "tags": ["farm", "easter", "animals", "spring", "egg-hunt"],
     "recurring": false
   },
@@ -63,7 +63,7 @@
     "price": "$22 general / $22 children (1-15) / Free under 1",
     "ageRange": "Ages 0–10",
     "website": "https://bostonchildrensmuseum.org",
-    "image": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=600&h=400&fit=crop",
+    "image": "https://bostonchildrensmuseum.org/wp-content/uploads/2022/02/DSC_0746.jpg",
     "tags": ["indoor", "hands-on", "building", "educational", "exhibit"],
     "recurring": true
   },
@@ -80,7 +80,7 @@
     "price": "Free for eligible Boston students + 2 guests",
     "ageRange": "All ages",
     "website": "https://www.boston.gov/departments/arts-and-culture/boston-family-days",
-    "image": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=600&h=400&fit=crop",
+    "image": "https://www.boston.gov/sites/default/files/styles/hero_fixed_e_oversize_1x/public/img/library/photos/2025/04/53980497188_a71f84ffe1_k_1.jpg?itok=5TJuZMm_",
     "tags": ["free", "museum", "zoo", "aquarium", "educational"],
     "recurring": true
   },
@@ -97,7 +97,7 @@
     "price": "$22 adults / $16 kids (2-12) / Free under 2",
     "ageRange": "Ages 2–10",
     "website": "https://www.zoonewengland.org/stone-zoo",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://www.zoonewengland.org/media/k2ceaulk/princess-hero-szfpz-hprotator.jpg",
     "tags": ["zoo", "animals", "costume", "outdoor", "kids"],
     "recurring": false
   },
@@ -114,7 +114,7 @@
     "price": "Free",
     "ageRange": "All ages",
     "website": "https://arboretum.harvard.edu/event/cherry-blossom-celebration/",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://arboretum.harvard.edu/wp-content/uploads/2025/05/Cherry-Blossom-Celebration.png",
     "tags": ["free", "outdoor", "cherry-blossom", "japanese-culture", "music"],
     "recurring": false
   },
@@ -131,7 +131,7 @@
     "price": "$4.75 adults / $3.25 kids (2-15) / Free under 2",
     "ageRange": "All ages",
     "website": "https://swanboats.com",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://swanboats.com/wp-content/uploads/2023/02/girl-at-swan-boats.jpg",
     "tags": ["outdoor", "boat-ride", "spring", "iconic", "family"],
     "recurring": true
   },
@@ -148,7 +148,7 @@
     "price": "Free",
     "ageRange": "All ages",
     "website": "https://www.boston-discovery-guide.com/boston-event-calendar-april.html",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://www.boston-discovery-guide.com/image-files/x800-patriots-day-redcoats-horses-4x3.jpg.pagespeed.ic.wADe1N2XtG.jpg",
     "tags": ["free", "outdoor", "history", "reenactment", "parade"],
     "recurring": false
   },
@@ -165,7 +165,7 @@
     "price": "$18/person / Free under 1",
     "ageRange": "Ages 0–8",
     "website": "https://www.discoveryacton.org",
-    "image": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=600&h=400&fit=crop",
+    "image": "https://www.discoveryacton.org/sites/default/files/styles/slide_small/public/images/IMLS%20National%20Medal-staff%20pic-cropped.jpg?h=2a8235bd&itok=Aww3fWJi",
     "tags": ["indoor", "STEAM", "earth-day", "hands-on", "vacation-week"],
     "recurring": false
   },
@@ -182,7 +182,7 @@
     "price": "$22/person / Free under 1",
     "ageRange": "Ages 0–8",
     "website": "https://www.davisfarmland.com",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
+    "image": "https://davisfarmland.com/wp-content/uploads/2023/04/davis-farmland-baby-animals.jpg",
     "tags": ["farm", "animals", "outdoor", "toddler-friendly", "splash-park"],
     "recurring": false
   },
@@ -199,7 +199,7 @@
     "price": "Free",
     "ageRange": "All ages",
     "website": "https://www.mass.gov/locations/blue-hills-reservation",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Hills_P1140207.jpg/800px-Blue_Hills_P1140207.jpg",
     "tags": ["free", "outdoor", "hiking", "nature", "vacation-week"],
     "recurring": false
   },
@@ -216,7 +216,7 @@
     "price": "General admission – see website for pricing",
     "ageRange": "All ages",
     "website": "https://goreplace.org/sheepshearing-festival",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
+    "image": "https://goreplace.org/images/made/images/uploads/EBW42219_900_600_s_c1.JPG",
     "tags": ["farm", "festival", "fiber-arts", "animals", "outdoor"],
     "recurring": false
   },
@@ -233,7 +233,7 @@
     "price": "Free admission",
     "ageRange": "All ages",
     "website": "https://www.japanfestivalboston.org/2026-festival",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://images.squarespace-cdn.com/content/v1/64c6cfd4e14e9302ceff3534/6ae9ef97-8887-4240-9bc6-e45fe034a19c/Tatiana-1.jpg",
     "tags": ["free", "festival", "japanese-culture", "food", "cosplay"],
     "recurring": false
   },
@@ -250,7 +250,7 @@
     "price": "$22 adults / $16 kids (2-12) / Free under 2",
     "ageRange": "All ages",
     "website": "https://www.zoonewengland.org/franklin-park-zoo",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://www.zoonewengland.org/media/1519935/camp-sz-fpz-hprotator.jpg",
     "tags": ["zoo", "animals", "outdoor", "flamingo", "educational"],
     "recurring": false
   },
@@ -267,7 +267,7 @@
     "price": "$34 adults / $25 kids (3-11) / Free under 3",
     "ageRange": "All ages",
     "website": "https://www.neaq.org",
-    "image": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=600&h=400&fit=crop",
+    "image": "https://www.neaq.org/wp-content/uploads/2023/06/homepage-video-backup.jpg",
     "tags": ["animals", "indoor", "marine", "educational", "aquarium"],
     "recurring": true
   },
@@ -284,7 +284,7 @@
     "price": "$29 adults / $24 kids (3-11) / Free under 3",
     "ageRange": "All ages",
     "website": "https://www.mos.org",
-    "image": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=600&h=400&fit=crop",
+    "image": "https://mos.org/themes/custom/mos/assets/images/mos-social-share.jpg",
     "tags": ["science", "indoor", "interactive", "educational", "lightning-show"],
     "recurring": true
   },
@@ -301,7 +301,7 @@
     "price": "Free to watch / Registration required to race",
     "ageRange": "All ages",
     "website": "https://www.thecharles.org",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://static1.squarespace.com/static/62f29bd77847013a6cd07cce/62f29bd87847013a6cd07d1b/694b02f5f30cde3967044596/1771457405958/ROTC+Event+Page+Banner.png?format=1500w",
     "tags": ["outdoor", "kayak", "canoe", "river", "spring"],
     "recurring": false
   }
