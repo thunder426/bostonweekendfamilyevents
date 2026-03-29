@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boston Weekend Family Events</title>
+  <meta name="description" content="Find the best family-friendly weekend events in the Boston area — farms, museums, parks, and more!">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="hero">
+    <div class="hero-overlay"></div>
+    <div class="container hero-content">
+      <h1>Boston Weekend Family Events</h1>
+      <p class="hero-subtitle">Discover the best family-friendly activities in the Boston area — farms, museums, nature, and more!</p>
+      <div class="search-bar">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="text" id="searchInput" placeholder="Search events, venues, or locations...">
+      </div>
+    </div>
+  </header>
+
+  <!-- Filters -->
+  <section class="filters-section">
+    <div class="container">
+      <div class="filters-row">
+        <div class="filter-group">
+          <label>Category</label>
+          <div class="filter-pills" id="categoryFilters">
+            <button class="pill active" data-category="all">All</button>
+            <button class="pill" data-category="farm">
+              <span class="pill-icon">&#127806;</span> Farms
+            </button>
+            <button class="pill" data-category="museum">
+              <span class="pill-icon">&#127963;</span> Museums
+            </button>
+            <button class="pill" data-category="outdoor">
+              <span class="pill-icon">&#127795;</span> Outdoors
+            </button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <label>When</label>
+          <div class="filter-pills" id="dateFilters">
+            <button class="pill active" data-when="all">All Dates</button>
+            <button class="pill" data-when="this-weekend">This Weekend</button>
+            <button class="pill" data-when="next-weekend">Next Weekend</button>
+            <button class="pill" data-when="this-month">This Month</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <label>Price</label>
+          <div class="filter-pills" id="priceFilters">
+            <button class="pill active" data-price="all">Any Price</button>
+            <button class="pill" data-price="free">Free Only</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Events Grid -->
+  <main class="events-section">
+    <div class="container">
+      <div class="events-header">
+        <h2 id="eventsTitle">All Events</h2>
+        <span class="event-count" id="eventCount"></span>
+        <span class="last-updated" id="lastUpdated"></span>
+      </div>
+      <div class="events-grid" id="eventsGrid">
+        <!-- Events are rendered by JS -->
+      </div>
+      <div class="no-results" id="noResults" style="display:none;">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="64" height="64">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          <path d="M8 11h6"/>
+        </svg>
+        <h3>No events found</h3>
+        <p>Try adjusting your filters or search terms.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Helpful Links Section -->
+  <section class="resources-section">
+    <div class="container">
+      <h2>More Boston Family Resources</h2>
+      <div class="resources-grid">
+        <a href="https://www.bostoncentral.com/activities/family-events" class="resource-card" target="_blank" rel="noopener">
+          <div class="resource-icon">&#128197;</div>
+          <h3>Boston Central</h3>
+          <p>Comprehensive family event calendar for Greater Boston</p>
+        </a>
+        <a href="https://www.thebostoncalendar.com" class="resource-card" target="_blank" rel="noopener">
+          <div class="resource-icon">&#128467;</div>
+          <h3>The Boston Calendar</h3>
+          <p>Community-driven event listings across the city</p>
+        </a>
+        <a href="https://www.massaudubon.org/get-outdoors" class="resource-card" target="_blank" rel="noopener">
+          <div class="resource-icon">&#127793;</div>
+          <h3>Mass Audubon</h3>
+          <p>Nature walks, farm visits, and wildlife programs</p>
+        </a>
+        <a href="https://www.thetrustees.org" class="resource-card" target="_blank" rel="noopener">
+          <div class="resource-icon">&#127968;</div>
+          <h3>The Trustees</h3>
+          <p>Historic properties, farms, and outdoor spaces across MA</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 Boston Weekend Family Events. Built with &#10084; for Boston families.</p>
+      <p class="footer-note">Event details may change — always check venue websites before visiting.</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
