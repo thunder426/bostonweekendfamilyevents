@@ -25,7 +25,7 @@ For each event found, structure it as a JSON object with these fields:
 - `tags` (array of strings)
 - `recurring` (boolean)
 
-After gathering events, find a real image for each event by fetching the venue/event website and extracting the og:image meta tag, hero image, or main event photo URL. Use the actual venue's image rather than generic placeholders. If a real image cannot be found for a specific event, use a relevant Wikimedia Commons image for the venue.
+After gathering events, assign images using the venue-to-image mapping in `data/venue-images.json`. Match each event's venue name against the keys in that file and use the corresponding image URL. If a venue is not in the map, fetch the venue/event website to extract the og:image meta tag or hero image URL, then add it to `data/venue-images.json` for future reuse. If no real image can be found, use a relevant Wikimedia Commons image and add that to the map as well.
 
 Write the complete JSON array to `data/events.json`, replacing the existing contents. Find at least 10-15 events.
 
